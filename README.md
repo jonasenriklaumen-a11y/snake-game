@@ -25,8 +25,7 @@ Ziel: Iss die roten Punkte, ohne gegen die Wand oder dich selbst zu laufen. Jede
 
 ```
 SnakeGame/
-├── snake.py                     # das gesamte Spiel (ein File)
-├── .github/workflows/check.yml  # CI: prüft, dass die Datei syntaktisch valide ist
+├── snake.py                     # das gesamte Spiel
 ├── LICENSE
 └── README.md
 ```
